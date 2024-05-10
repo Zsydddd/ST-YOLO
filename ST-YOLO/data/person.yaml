@@ -1,0 +1,9 @@
+train: /home/yolov5-master/data/ImageSets/main/train.txt
+val: /home/yolov5-master/data/ImageSets/main/val.txt
+test: /home/yolov5-master/data/ImageSets/main/test.txt
+
+# Classes
+nc: 2  # number of classes
+names: ['pedestrians', 'riders']
+
+
